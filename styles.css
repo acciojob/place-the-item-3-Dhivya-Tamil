@@ -1,7 +1,10 @@
 
 /* Your CSS Code here. */
 .holder{
+	width:100%;
 	display:flex;
-	justify-content:space-between;
+	background-color:green;
+	border:1px solid black;
+	justify-content:space-evenly;
 	flex-wrap:wrap;
 }
